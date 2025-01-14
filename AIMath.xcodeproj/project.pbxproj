@@ -138,7 +138,6 @@
 		DEF50AD22D22AE9A00C41552 /* ContentError.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF509A72D22AE9A00C41552 /* ContentError.swift */; };
 		DEF50AD32D22AE9A00C41552 /* AssistantResultTableElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF509CE2D22AE9A00C41552 /* AssistantResultTableElement.swift */; };
 		DEF50AD42D22AE9A00C41552 /* AIRAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF50A062D22AE9A00C41552 /* AIRAnimationView.swift */; };
-		DEF50AD52D22AE9A00C41552 /* BranchManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF509832D22AE9A00C41552 /* BranchManager.swift */; };
 		DEF50AD62D22AE9A00C41552 /* ScreenSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF509AF2D22AE9A00C41552 /* ScreenSize.swift */; };
 		DEF50AD72D22AE9A00C41552 /* FacebookManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF509842D22AE9A00C41552 /* FacebookManager.swift */; };
 		DEF50AD82D22AE9A00C41552 /* APIRequestBody.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEF5099F2D22AE9A00C41552 /* APIRequestBody.swift */; };
@@ -180,7 +179,6 @@
 		DEF509722D22AD2400C41552 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DEF509732D22AD2400C41552 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DEF509822D22AE9A00C41552 /* AmplitudeManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmplitudeManager.swift; sourceTree = "<group>"; };
-		DEF509832D22AE9A00C41552 /* BranchManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchManager.swift; sourceTree = "<group>"; };
 		DEF509842D22AE9A00C41552 /* FacebookManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacebookManager.swift; sourceTree = "<group>"; };
 		DEF509852D22AE9A00C41552 /* FirebaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseManager.swift; sourceTree = "<group>"; };
 		DEF509872D22AE9A00C41552 /* RequestReview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestReview.swift; sourceTree = "<group>"; };
@@ -413,7 +411,6 @@
 			isa = PBXGroup;
 			children = (
 				DEF509822D22AE9A00C41552 /* AmplitudeManager.swift */,
-				DEF509832D22AE9A00C41552 /* BranchManager.swift */,
 				DEF509842D22AE9A00C41552 /* FacebookManager.swift */,
 				DEF509852D22AE9A00C41552 /* FirebaseManager.swift */,
 			);
@@ -1420,7 +1417,6 @@
 				DEF50AD22D22AE9A00C41552 /* ContentError.swift in Sources */,
 				DEF50AD32D22AE9A00C41552 /* AssistantResultTableElement.swift in Sources */,
 				DEF50AD42D22AE9A00C41552 /* AIRAnimationView.swift in Sources */,
-				DEF50AD52D22AE9A00C41552 /* BranchManager.swift in Sources */,
 				DEF50AD62D22AE9A00C41552 /* ScreenSize.swift in Sources */,
 				DEF50AD72D22AE9A00C41552 /* FacebookManager.swift in Sources */,
 				DEF50AD82D22AE9A00C41552 /* APIRequestBody.swift in Sources */,
